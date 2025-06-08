@@ -2,12 +2,12 @@
 
 The thesis is structured around the following logical framework:
 
-Overview of existing viscosity measurement methods and conceptualization of the proposed microfluidic-based viscosity detection system
+1.Overview of existing viscosity measurement methods and conceptualization of the proposed microfluidic-based viscosity detection system
 
-Design and simulation of the microfluidic viscosity measurement chip
+2.Design and simulation of the microfluidic viscosity measurement chip
 
-Fabrication and characterization of the microfluidic chip
+3.Fabrication and characterization of the microfluidic chip
 
-Construction of a high-throughput viscosity measurement system
+4.Construction of a high-throughput viscosity measurement system
 
-Calibration and experimental validation of the viscosity detection platform
+5.Calibration and experimental validation of the viscosity detection platform
