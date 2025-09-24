@@ -29,8 +29,8 @@
 </p>
 
 
+2. **Design and simulation of the microfluidic viscosity measurement chip**
 
-2.Design and simulation of the microfluidic viscosity measurement chip
 
 3.Fabrication and calibration of the microfluidic chip
 
