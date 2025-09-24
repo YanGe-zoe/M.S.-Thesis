@@ -9,21 +9,21 @@
 
 **Figure 1. Traditional viscometers**  
 <p align="center">
-  <img src="images/fig1_traditional_viscometers.png" 
+  <img src="images/Traditional viscometers.png" 
        alt="Figure 1: Traditional viscometers" 
        width="500">
 </p>
 
 **Figure 2. Examples of MEMS viscometers**  
 <p align="center">
-  <img src="images/fig2_MEMS_viscometers.png" 
+  <img src="images/Examples of MEMS viscometers.png" 
        alt="Figure 2: Examples of MEMS viscometers" 
        width="500">
 </p>
 
 **Figure 3. Examples of unidirectional flow microfluidic viscometers**  
 <p align="center">
-  <img src="images/fig3_microfluidic_viscometers.png" 
+  <img src="images/Examples of unidirectional flow microfluidic viscometers.png" 
        alt="Figure 3: Examples of unidirectional flow microfluidic viscometers" 
        width="500">
 </p>
