@@ -49,6 +49,7 @@ It can be observed that the velocity varies with changes in the supply pressure 
   </p>
 
 3. **Fabrication and calibration of the microfluidic chip**
+</p>
 The chip was fabricated using stereolithography (SLA) 3D printing.  
 Characterization with a Zygo interferometer confirmed good molding quality and compliance with experimental requirements (**Figure 6**).  
   <p align="center">
