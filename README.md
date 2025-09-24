@@ -1,8 +1,13 @@
 # M.S.-Thesis
+These methods can be divided into:
+   - Traditional viscosity measurement approaches  
+   - Novel microfluidic-based approaches
 
-The thesis is structured around the following logical framework:
+   As shown in **Figure 1**, traditional viscometers are illustrated:  
+   ![Figure 1: Traditional viscometers](images/Traditional%20viscometers.png)
 
-1.Overview of existing viscosity measurement methods and conceptualization of the proposed microfluidic-based viscosity detection system
+   As shown in **Figure 2**, examples of unidirectional flow microfluidic viscometers are presented:  
+   ![Figure 2: Examples of unidirectional flow microfluidic viscometers](images/Examples%20of%20unidirectional%20flow%20microfluidic%20viscometers.png)
 
 2.Design and simulation of the microfluidic viscosity measurement chip
 
