@@ -33,7 +33,8 @@
 </p>
 As shown in **Figure 4**, a novel variable cross-section microfluidic chip is designed.  
 It consists of a narrow slit-shaped small cross-section and a rectangular large cross-section.  
-This structure eliminates the need for microscope observation, as an industrial camera can be used instead.  
+This structure eliminates the need for microscope observation, as an industrial camera can be used instead. 
+</p>
 <p align="center">
   <img src="images/Variable cross-section chip structure.png" 
        alt="Figure 4: Variable cross-section chip structure" 
@@ -45,6 +46,7 @@ It can be observed that the velocity varies with changes in the supply pressure 
   <img src="images/Flow velocity at the centerline of the large and small cross-sections.png" 
        alt="Figure 5: Flow velocity at the centerline of the large and small cross-sections" 
        width="500">
+  </p>
   Furthermore, the chip was fabricated using stereolithography (SLA) 3D printing.  
 Characterization with a Zygo interferometer confirmed good molding quality and compliance with experimental requirements (**Figure 6**).  
   <p align="center">
