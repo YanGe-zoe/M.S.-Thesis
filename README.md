@@ -47,15 +47,17 @@ It can be observed that the velocity varies with changes in the supply pressure 
        alt="Figure 5: Flow velocity at the centerline of the large and small cross-sections" 
        width="500">
   </p>
-  Furthermore, the chip was fabricated using stereolithography (SLA) 3D printing.  
+
+3. **Fabrication and calibration of the microfluidic chip**
+The chip was fabricated using stereolithography (SLA) 3D printing.  
 Characterization with a Zygo interferometer confirmed good molding quality and compliance with experimental requirements (**Figure 6**).  
   <p align="center">
   <img src="images/Surface characteristics and size characterization of the microfluidic viscosity chip.png" 
        alt="Figure 6: Surface characteristics and size characterization of the microfluidic viscosity chip" 
        width="500">
 </p>
-3.Fabrication and calibration of the microfluidic chip
 
+4. 
 4.Construction of a high-throughput viscosity measurement system
 
 5.Calibration and experimental validation of the viscosity measurement platform
