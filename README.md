@@ -11,18 +11,17 @@
   <img src=" images/Traditional viscometers.png" 
        alt="Figure 1: Traditional viscometers" 
        width="500"> 
-</p> 
     As shown in **Figure 2**, examples of MEMS viscometers are presented:
    <p align="center">
   <img src="images/Examples of MEMS viscometers.png" 
        alt="Figure 3: Examples of MEMS viscometers" 
        width="500">
-</p>
    As shown in **Figure 3**, examples of unidirectional flow microfluidic viscometers are presented:  
   <p align="center">
   <img src="images/Examples of unidirectional flow microfluidic viscometers.png" 
        alt="Figure 3: Examples of unidirectional flow microfluidic viscometers" 
        width="500">
+
 
 2.Design and simulation of the microfluidic viscosity measurement chip
 
