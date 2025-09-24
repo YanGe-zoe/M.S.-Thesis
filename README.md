@@ -57,8 +57,8 @@ Characterization with a Zygo interferometer confirmed good molding quality and c
        width="500">
 </p>
 
-4. 
-4.Construction of a high-throughput viscosity measurement system
+4. **Construction of a high-throughput viscosity measurement system**
+
 
 5.Calibration and experimental validation of the viscosity measurement platform
 
