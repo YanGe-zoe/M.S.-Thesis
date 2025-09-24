@@ -30,6 +30,7 @@
 
 
 2. **Design and simulation of the microfluidic viscosity measurement chip**
+</p>
 As shown in **Figure 4**, a novel variable cross-section microfluidic chip is designed.  
 It consists of a narrow slit-shaped small cross-section and a rectangular large cross-section.  
 This structure eliminates the need for microscope observation, as an industrial camera can be used instead.  
@@ -41,10 +42,8 @@ This structure eliminates the need for microscope observation, as an industrial 
 Using COMSOL, the flow velocity at the channel centerline was simulated.  
 It can be observed that the velocity varies with changes in the supply pressure system (**Figure 5**).  
 <p align="center">
-  <img src="images/Flow velocity at the centerline of the large and small cross-sections
-.png" 
-       alt="Figure 5: Flow velocity at the centerline of the large and small cross-sections
-" 
+  <img src="images/Flow velocity at the centerline of the large and small cross-sections.png" 
+       alt="Figure 5: Flow velocity at the centerline of the large and small cross-sections" 
        width="500">
   Furthermore, the chip was fabricated using stereolithography (SLA) 3D printing.  
 Characterization with a Zygo interferometer confirmed good molding quality and compliance with experimental requirements (**Figure 6**).  
