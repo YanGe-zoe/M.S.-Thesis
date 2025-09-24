@@ -1,18 +1,15 @@
 # M.S.-Thesis
-These methods can be divided into:
-  These methods can be divided into:
+1. **Overview of existing viscosity measurement methods and conceptualization of the proposed microfluidic-based viscosity detection system**
+
+   These methods can be divided into:
    - Traditional viscosity measurement approaches  
-   - Novel microfluidic-based approaches  
+   - Novel microfluidic-based approaches
 
-   **Figure 1. Traditional viscometers**  
-   <p align="center">
-     <img src="images/fig1_traditional_viscometers.png" alt="Figure 1: Traditional viscometers" width="500">
-   </p>
+   As shown in **Figure 1**, traditional viscometers are illustrated:  
+   ![Figure 1: Traditional viscometers](images/Traditional%20viscometers.png)
 
-   **Figure 2. Examples of unidirectional flow microfluidic viscometers**  
-   <p align="center">
-     <img src="images/fig2_microfluidic_viscometers.png" alt="Figure 2: Examples of unidirectional flow microfluidic viscometers" width="500">
-   </p>
+   As shown in **Figure 2**, examples of unidirectional flow microfluidic viscometers are presented:  
+   ![Figure 2: Examples of unidirectional flow microfluidic viscometers](images/Examples%20of%20unidirectional%20flow%20microfluidic%20viscometers.png)
 
 2.Design and simulation of the microfluidic viscosity measurement chip
 
