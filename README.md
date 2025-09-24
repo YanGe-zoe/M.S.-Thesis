@@ -1,30 +1,33 @@
 # M.S.-Thesis
+
 1. **Overview of existing viscosity measurement methods and conceptualization of the proposed microfluidic-based viscosity detection system**
 
-   These methods can be divided into:
-   - Traditional viscosity measurement approaches
-   - Novel MEMS-based approaches
-   - Novel microfluidic-based approaches
+  These methods can be divided into:
+- Traditional viscosity measurement approaches
+- Novel MEMS-based approaches
+- Novel microfluidic-based approaches
 
-   As shown in **Figure 1**, traditional viscometers are illustrated:
-    <p align="center">
-  <img src=" images/Traditional viscometers.png" 
-     alt="Figure 1: Traditional viscometers" 
-     width="500"> 
-       </p>
-       
-    As shown in **Figure 2**, examples of MEMS viscometers are presented:
-   <p align="center">
-  <img src="images/Examples of MEMS viscometers.png" 
-       alt="Figure 3: Examples of MEMS viscometers" 
+**Figure 1. Traditional viscometers**  
+<p align="center">
+  <img src="images/fig1_traditional_viscometers.png" 
+       alt="Figure 1: Traditional viscometers" 
        width="500">
-      </p>
-      
-   As shown in **Figure 3**, examples of unidirectional flow microfluidic viscometers are presented:  
-  <p align="center">
-  <img src="images/Examples of unidirectional flow microfluidic viscometers.png" 
+</p>
+
+**Figure 2. Examples of MEMS viscometers**  
+<p align="center">
+  <img src="images/fig2_MEMS_viscometers.png" 
+       alt="Figure 2: Examples of MEMS viscometers" 
+       width="500">
+</p>
+
+**Figure 3. Examples of unidirectional flow microfluidic viscometers**  
+<p align="center">
+  <img src="images/fig3_microfluidic_viscometers.png" 
        alt="Figure 3: Examples of unidirectional flow microfluidic viscometers" 
        width="500">
+</p>
+
 
 
 2.Design and simulation of the microfluidic viscosity measurement chip
