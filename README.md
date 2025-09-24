@@ -9,8 +9,8 @@
    As shown in **Figure 1**, traditional viscometers are illustrated:
     <p align="center">
   <img src=" images/Traditional viscometers.png" 
-       alt="Figure 1: Traditional viscometers" 
-       width="500"> 
+     alt="Figure 1: Traditional viscometers" 
+     width="500"> 
        </p>
        
     As shown in **Figure 2**, examples of MEMS viscometers are presented:
