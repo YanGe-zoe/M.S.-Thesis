@@ -8,7 +8,7 @@
 
    As shown in **Figure 1**, traditional viscometers are illustrated:
     <p align="center">
-  <img src="images/Traditional viscometers.png" 
+  <img src=" images/Traditional viscometers.png" 
        alt="Figure 1: Traditional viscometers" 
        width="500"> 
 </p> 
