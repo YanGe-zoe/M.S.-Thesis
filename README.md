@@ -6,7 +6,11 @@
    - Novel MEMS-based approaches
    - Novel microfluidic-based approaches
 
-   As shown in **Figure 1**, traditional viscometers are illustrated:  
+   As shown in **Figure 1**, traditional viscometers are illustrated:
+    <p align="center">
+  <img src="images/Traditional viscometers.png" 
+       alt="Figure 1: Traditional viscometers" 
+       width="500"> 
    ![Figure 1: Traditional viscometers](images/Traditional%20viscometers.png)
    
     As shown in **Figure 2**, examples of MEMS viscometers are presented:
@@ -15,7 +19,6 @@
        alt="Figure 3: Examples of MEMS viscometers" 
        width="500">
 </p>
-   ![Figure 2: Examples of MEMS viscometers](images/Examples%20of%20unidirectional%20flow%20microfluidic%20viscometers.png)
 
    As shown in **Figure 3**, examples of unidirectional flow microfluidic viscometers are presented:  
    ![Figure 3: Examples of unidirectional flow microfluidic viscometers](images/Examples%20of%20unidirectional%20flow%20microfluidic%20viscometers.png)
